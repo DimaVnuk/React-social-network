@@ -1,5 +1,8 @@
-.cont{
+.cont {
     grid-area: cont;
     background-color: darkgreen;
-    }
-    
+}
+
+.item {
+   color: greenyellow; 
+}
