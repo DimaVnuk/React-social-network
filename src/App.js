@@ -1,8 +1,8 @@
 import './App.css';
 import { render } from '@testing-library/react';
-import Header from './components/Header';
-import Navbar from './components/Navbar';
-import Profiles from './components/Profiles';
+import Header from './components/Header/Header';
+import Navbar from './components/Navbar/Navbar';
+import Profiles from './components/Profiles/Profiles';
 
 
 
